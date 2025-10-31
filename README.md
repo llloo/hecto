@@ -1,3 +1,3 @@
 # hecto
 
-(hecto)[https://philippflenker.com/hecto/]
+[hecto](https://philippflenker.com/hecto/)
